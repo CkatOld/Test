@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "http": "http-server -p 8090"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "http-service": "^1.1.3"
+  }
+}
